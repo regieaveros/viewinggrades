@@ -1,0 +1,46 @@
+.avatar-layout {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60px 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+}
+
+.avatar-check {
+    padding-top: 1.2rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #00bc8c80;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+}
+
+.avatar-profile {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 8rem 8rem;
+    width: 8rem;
+    height: 8rem;
+}
+
+.logo-shadow {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+
+div#datatable-1_paginate {
+    float: unset;
+    text-align: center;
+}
+
+div#datatable-2_paginate {
+    float: unset;
+    text-align: center;
+}
+
+.none-cursor {
+    cursor: unset !important;
+}
