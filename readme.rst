@@ -2,9 +2,9 @@
 Online Viewing of Grades
 ###################
 
-The main goal of the project is to design and develop a system that will let the faculties and students electronically manage grade-related transaction in school in an easy, fast and hassle-free manner.
+The main goal of the project is to design and develop a system that will let the faculties and students electronically manage grade-related transactions in school in an easy, fast, and hassle-free manner.
 
-The project specifically aims to design a system that will let faculties process and release student grades efficiently, to allow students to view their grades in a more convenient and time-saving way, to aid the registrar's office in attending to student's grade inquiry, to make grade processing, releasing and viewing convenient for students and faculties and to make grade-related transaction easy, fast and hassle-free.
+The project specifically aims to design a system that will let faculties process and release student grades efficiently, allow students to view their grades in a more convenient and time-saving way, aid the registrar's office in attending to student's grade inquiries, make grade processing, releasing and viewing convenient for students and faculties and to make the grade-related transaction easy, fast and hassle-free.
 
 *******************
 Features
