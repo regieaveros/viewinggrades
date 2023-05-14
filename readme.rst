@@ -13,6 +13,10 @@ Features
 -  Admin Panel
 -  Faculty Panel
 -  Student Panel
+-  Generated ID Number
+-  Print Result
+-  Desktop and Mobile Responsive
+-  Profile
 
 *******************
 Credentials
