@@ -30,6 +30,6 @@ Faculty
  - username: teacher@teacher.com
  - password: 12345
 
-Faculty
+Student
  - username: student@student.com
  - password: 12345
